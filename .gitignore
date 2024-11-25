@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+wandb/
+checkpoints/
+*.egg-info/
+dist/
+data/
+runs/
