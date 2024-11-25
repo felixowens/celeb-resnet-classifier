@@ -8,3 +8,5 @@ checkpoints/
 dist/
 data/
 runs/
+results/
+logs/
